@@ -1,4 +1,4 @@
----
+<!-- ---
 bingbot: "index, follow, max-snippet:-1, max-image-preview:large,
   max-video-preview:-1"
 dc.description: "htmlcsstoimage is used to do a couple of things inside
@@ -35,7 +35,7 @@ twitter:description: "htmlcsstoimage is used to do a couple of things
 twitter:site: "https://twitter.com/wpclouddeploy"
 twitter:title: HTMLcssToImage - WPCloudDeploy
 viewport: width=device-width, initial-scale=1.0
----
+--- -->
 
 ::: {#wm-ipp-base lang="en" style="display:none;direction:ltr;"}
 ::: {#wm-ipp style="position:fixed;left:0;top:0;right:0;"}

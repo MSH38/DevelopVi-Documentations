@@ -184,7 +184,7 @@ https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentati
 :::
 
 [![AS Docs
-Logo](https://web.archive.org/web/20240304145004im_/https://wpclouddeploy.com/wp-content/uploads/2020/07/wpcd-logo-june2020-2-150x150.png){.DocSiteNav-logo}](/web/20240304145004/https://wpclouddeploy.com/){.DocSite-nav}
+Logo](https://web.archive.org/web/20240304145004im_/https://wpclouddeploy.com/wp-content/uploads/2020/07/developVI-logo-june2020-2-150x150.png){.DocSiteNav-logo}](/web/20240304145004/https://wpclouddeploy.com/){.DocSite-nav}
 
 ::: {.DocSiteNav-title}
 WPCloudDeploy Documentation
@@ -215,7 +215,7 @@ WPCloudDeploy Documentation
   - [Quick
     Start](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy/quick-start/){.reference
     .internal style="color: #000000;"}
-  - [Quick Start With The WPCD
+  - [Quick Start With The developVI
     Wizard](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy/quick-start-with-digitalocean-wizard/){.reference
     .internal style="color: #000000;"}
   - [Quick Start With DigitalOcean
@@ -263,8 +263,8 @@ WPCloudDeploy Documentation
   - [Free Setup Requirements &
     Checklist](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-admin/free-setup-requirements-checklist/){.reference
     .internal style="color: #000000;"}
-  - [Better WPCD
-    Crons](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy/better-wpcd-crons/){.reference
+  - [Better developVI
+    Crons](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy/better-developVI-crons/){.reference
     .internal style="color: #000000;"}
 - [02. User Guide](javascript:;){.reference .internal
   .toctree-l1-chapter}
@@ -430,8 +430,8 @@ WPCloudDeploy Documentation
   - [Webserver
     Types](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-admin/webserver-types/){.reference
     .internal style="color: #000000;"}
-  - [WPCD Cron
-    Jobs](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-admin/wpcd-cron-jobs/){.reference
+  - [developVI Cron
+    Jobs](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-admin/developVI-cron-jobs/){.reference
     .internal style="color: #000000;"}
   - [Disk
     Quotas](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-admin/disk-quotas/){.reference
@@ -478,58 +478,58 @@ WPCloudDeploy Documentation
 - [07. Developer Notes](javascript:;){.reference .internal
   .toctree-l1-chapter}
   - [Filter Hook:
-    wpcd_script_file_contents](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/filter-hook-wpcd_script_file_contents/){.reference
+    developVI_script_file_contents](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/filter-hook-developVI_script_file_contents/){.reference
     .internal style="color: #000000;"}
   - [Filter Hook:
-    wpcd_wpapp_show_install_wp_button](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/filter-hook-wpcd_wpapp_show_install_wp_button/){.reference
+    developVI_wpapp_show_install_wp_button](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/filter-hook-developVI_wpapp_show_install_wp_button/){.reference
     .internal style="color: #000000;"}
   - [Filter Hook:
-    wpcd_wpapp_show_install_wp_link](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/filter-hook-wpcd_wpapp_show_install_wp_link/){.reference
+    developVI_wpapp_show_install_wp_link](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/filter-hook-developVI_wpapp_show_install_wp_link/){.reference
     .internal style="color: #000000;"}
   - [Filter Hook:
-    wpcd_settings_help_tab_text](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/filter-hook-wpcd_settings_help_tab_text/){.reference
+    developVI_settings_help_tab_text](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/filter-hook-developVI_settings_help_tab_text/){.reference
     .internal style="color: #000000;"}
   - [Filter Hook:
-    wpcd_settings_welcome_text_initial](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/filter-hook-wpcd_settings_welcome_text_initial/){.reference
+    developVI_settings_welcome_text_initial](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/filter-hook-developVI_settings_welcome_text_initial/){.reference
     .internal style="color: #000000;"}
   - [Filter Hook:
-    wpcd_settings_welcome_text](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/filter-hook-wpcd_settings_welcome_text/){.reference
+    developVI_settings_welcome_text](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/filter-hook-developVI_settings_welcome_text/){.reference
     .internal style="color: #000000;"}
   - [Filter Hook:
-    wpcd_settings_deploy_first_wp_site_text](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/filter-hook-wpcd_settings_deploy_first_wp_site_text/){.reference
+    developVI_settings_deploy_first_wp_site_text](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/filter-hook-developVI_settings_deploy_first_wp_site_text/){.reference
     .internal style="color: #000000;"}
   - [Custom Post Types Used By
-    WPCD](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/custom-post-types-used-by-wpcd/){.reference
+    developVI](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/custom-post-types-used-by-developVI/){.reference
     .internal style="color: #000000;"}
   - [Action Hook:
-    wpcd_server_wordpress-app_server_created](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/action-hook-wpcd_server_wordpress-app_server_created/){.reference
+    developVI_server_wordpress-app_server_created](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/action-hook-developVI_server_wordpress-app_server_created/){.reference
     .internal style="color: #000000;"}
   - [Action Hook:
-    wpcd_server_wordpress-app_prepare_server_command_done](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/action-hook-wpcd_server_wordpress-app_prepare_server_command_done/){.reference
+    developVI_server_wordpress-app_prepare_server_command_done](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/action-hook-developVI_server_wordpress-app_prepare_server_command_done/){.reference
     .internal style="color: #000000;"}
   - [Action Hook:
-    wpcd_command_wordpress-app_completed](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/action-hook-wpcd_command_wordpress-app_completed/){.reference
+    developVI_command_wordpress-app_completed](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/action-hook-developVI_command_wordpress-app_completed/){.reference
     .internal style="color: #000000;"}
   - [Action Hook:
-    wpcd_command_wordpress-app_prepare_server_completed](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/action-hook-wpcd_command_wordpress-app_prepare_server_done/){.reference
+    developVI_command_wordpress-app_prepare_server_completed](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/action-hook-developVI_command_wordpress-app_prepare_server_done/){.reference
     .internal style="color: #000000;"}
   - [Filter Hook:
-    wpcd_wordpress-app_initial_server_attributes](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/filter-hook-wpcd_wordpress-app_initial_server_attributes/){.reference
+    developVI_wordpress-app_initial_server_attributes](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/filter-hook-developVI_wordpress-app_initial_server_attributes/){.reference
     .internal style="color: #000000;"}
   - [Filter Hook:
-    wpcd_wordpress-app_create_popup](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/filter-hook-wpcd_wordpress-app_create_popup/){.reference
+    developVI_wordpress-app_create_popup](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/filter-hook-developVI_wordpress-app_create_popup/){.reference
     .internal style="color: #000000;"}
   - [Filter Hook:
-    wpcd_wordpress-app_install_app_popup](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/filter-hook-wpcd_wordpress-install_app_popup/){.reference
+    developVI_wordpress-app_install_app_popup](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/filter-hook-developVI_wordpress-install_app_popup/){.reference
     .internal style="color: #000000;"}
   - [Filter Hook:
-    wpcd_wordpress-app_initial_server_attributes_wc](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/filter-hook-wpcd_wordpress-app_initial_server_attributes_wc/){.reference
+    developVI_wordpress-app_initial_server_attributes_wc](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/filter-hook-developVI_wordpress-app_initial_server_attributes_wc/){.reference
     .internal style="color: #000000;"}
   - [Filter Hook:
-    wpcd_wordpress-app_install_wp_app_parms](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/filter-hook-wpcd_wordpress-app_install_app_popup/){.reference
+    developVI_wordpress-app_install_wp_app_parms](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/filter-hook-developVI_wordpress-app_install_app_popup/){.reference
     .internal style="color: #000000;"}
   - [Action Hook:
-    wpcd_command_wordpress-app_completed_after_cleanup](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/action-hook-wpcd_command_wordpress-app_completed_after_cleanup/){.reference
+    developVI_command_wordpress-app_completed_after_cleanup](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/action-hook-developVI_command_wordpress-app_completed_after_cleanup/){.reference
     .internal style="color: #000000;"}
   - [SSH Execution
     Models](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/wpcloud-deploy-dev-notes/ssh-execution-models/){.reference
@@ -595,8 +595,8 @@ WPCloudDeploy Documentation
   - [Metadata
     Syncing](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/other-misc/metadata-syncing/){.reference
     .internal style="color: #000000;"}
-  - [Moving The WPCD Plugin To A New
-    Server](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/other-misc/moving-the-wpcd-plugin-to-a-new-server/){.reference
+  - [Moving The developVI Plugin To A New
+    Server](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/other-misc/moving-the-developVI-plugin-to-a-new-server/){.reference
     .internal style="color: #000000;"}
   - [Simultaneous Dashboard
     Actions](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/other-misc/simultaneous-dashboard-actions/){.reference
@@ -775,7 +775,7 @@ WPCloudDeploy Documentation
     Servers](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/articles-parent/sizing-your-wordpress-servers/){.reference
     .internal style="color: #000000;"}
   - [Deployment Options For
-    WPCD](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/articles-parent/deployment-options-for-wpcd/){.reference
+    developVI](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/articles-parent/deployment-options-for-developVI/){.reference
     .internal style="color: #000000;"}
   - [Add Your Existing SSH Key To A Root User
     Account](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/articles-parent/add-your-existing-ssh-to-a-root-user-account/){.reference
@@ -843,8 +843,8 @@ WPCloudDeploy Documentation
   - [Multi-tenant Components &
     Concepts](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/multitenant/multi-tenant-components-concepts/){.reference
     .internal style="color: #000000;"}
-  - [Getting Started With WPCD
-    Multi-tenant](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/multitenant/getting-started-with-wpcd-multi-tenant/){.reference
+  - [Getting Started With developVI
+    Multi-tenant](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/multitenant/getting-started-with-developVI-multi-tenant/){.reference
     .internal style="color: #000000;"}
   - [Template Sites (Product
     Templates)](https://web.archive.org/web/20240304145004/https://wpclouddeploy.com/documentation/multitenant/template-sites-product-templates/){.reference
